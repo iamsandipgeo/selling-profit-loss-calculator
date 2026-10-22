@@ -1,0 +1,6 @@
+{
+  "name": "Seller Profit Pro – India",
+  "description": "Smart e-commerce profit and fee calculator for Indian online sellers on Meesho, Amazon India, and Flipkart with GST, RTO risk modeling, and platform comparison in English and Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
